@@ -1,0 +1,161 @@
+.logoLogin{
+  display: inline-block;
+  box-sizing: border-box;
+  width:84px;
+  height:84px;
+  left:165px;
+  top:110px;
+  width:8.4rem;
+  height:8.4rem;
+  left:16.5rem;
+  top:11rem;
+  position: absolute;
+}
+
+.h1_login{
+  display: inline-block;
+  box-sizing: border-box;
+  position: absolute;
+  width: 146px;
+  height: 14px;
+  left: 160px;
+  top: 183px;
+  font-size: 3.0rem;
+  width: 14.6rem;
+  height: 1.4rem;
+  left: 16rem;
+  top: 18.3rem;
+  font-size: 3rem;
+}
+
+.input_login {
+  position: absolute;
+  left:10px;
+  border: none;
+  box-sizing: border-box;
+  width: 250px;
+  height: 49px;
+  background-color: #F2F3F7;
+  border-radius: 30px;
+  box-sizing: border-box;
+  outline: none;
+  font-size: 20px;
+  padding-left: 30px;
+  padding-right:30px;
+  font-size: 2rem;
+  padding-left: 3rem;
+  padding-right:3rem;
+  width: 25rem;
+  height: 4.9rem;
+  left:1rem;
+  border-radius: 3rem;
+}
+
+.id{
+  border:none;
+  box-sizing: border-box;
+  position: absolute;
+  width: 250px;
+  height: 49px;
+  left: 80px;
+  top: 269px;
+  width: 25rem;
+  height: 4.9rem;
+  left: 8rem;
+  top: 26.9rem;
+  background: #F2F3F7;
+  border-radius: 3rem;
+  border-radius: 30px;
+}
+
+.password{
+  border:none;
+  box-sizing: border-box;
+  position: absolute;
+  width: 250px;
+  height: 49px;
+  left: 80px;
+  top: 269px;
+  width: 25rem;
+  height: 4.9rem;
+  top: 26.9rem;
+  border-radius: 3rem;
+  background: #F2F3F7;
+  border-radius: 30px;
+  top: 346px;
+}
+
+.switch{
+  box-sizing: border-box;
+  border:none;
+  text-decoration: none;
+  color:black;
+  font-weight:bold;
+}
+
+.switchForget{
+  position: absolute;
+  width: 76px;
+  height: 36px;
+  left: 72px;
+  top: 405px;
+  width: 7.6rem;
+  height: 3.6rem;
+  left: 7.2rem;
+  top: 40.5rem;
+  font-size: 1.5rem;
+  text-align: center;
+  font-size: 15px;
+}
+
+.sign{
+  display:flex;
+  font-size: 1px;
+  margin-top:500px;
+  font-size: 0.1rem;
+  margin-top:50rem;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+.switchRegister {
+  position: absolute;
+  width: 76px;
+  height: 36px;
+  left: 265px;
+  top: 405px;
+  font-size: 15px;
+  width: 7.6rem;
+  height: 3.6rem;
+  left: 26.5rem;
+  top: 40.5rem;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.login {
+  border:none;
+  box-sizing: border-box;
+  position: absolute;
+  width: 155px;
+  height: 45px;
+  left: 130px;
+  top: 473px;
+  width: 15.5rem;
+  height: 4.5rem;
+  left: 13.0rem;
+  top: 47.3rem;
+  text-align: center;
+  background: #90ADFF;
+  border-radius: 30px;
+  text-decoration: none;
+  padding:7px;
+  font-size: 20px;
+  padding:0.7rem;
+  font-size: 2rem;
+  font-weight: bold;
+  color:black;
+}
+
+
+

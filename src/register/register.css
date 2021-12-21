@@ -1,0 +1,110 @@
+.h1_register{
+  display: block;
+  box-sizing: border-box;
+  position: absolute;
+  width: 180px;
+  height: 42px;
+  left: 37px;
+  top: 36px;
+  font-size: 3.6rem;
+  width: 18rem;
+  height: 4.2rem;
+  left: 3.7rem;
+  top: 3.6rem;
+  font-size: 3.6rem;
+}
+
+.input_register {
+  position: absolute;
+  border: none;
+  box-sizing: border-box;
+  width: 250px;
+  height: 49px;
+  width: 25rem;
+  height: 4.9rem;
+  background-color: #F2F3F7;
+  border-radius: 30px;
+  border-radius: 3rem;
+  box-sizing: border-box;
+  outline: none;
+  font-size: 20px;
+  padding-left: 30px;
+  padding-right:30px;
+  left:7.5rem;
+  font-size: 2rem;
+  padding-left: 3rem;
+  padding-right:3rem;
+  left:7.5rem;
+}
+
+.input_username{
+  top: 173px;
+  top: 17.3rem;
+}
+
+.input_id{
+  top: 251px;
+}
+
+.input_password{
+  top: 330px;
+}
+
+.input_confirm{
+  top: 409px;
+}
+
+.input_mail{
+  top: 488px;
+}
+
+.sign_1 {
+  color:red;
+  position:absolute;
+  top:522px;
+  left:80px;
+  top:52.2rem;
+  left:8rem;
+}
+
+.sign_0 {
+  color:red;
+  position:absolute;
+  top:443px;
+  left:80px;
+  top:44.3rem;
+  left:8rem;
+}
+
+.registerSign{
+  position: absolute;
+  top:630px;
+  left:130px;
+  top:63rem;
+  left:13rem;
+}
+
+.button_register{
+  text-align: center;
+  position: absolute;
+  box-sizing: border-box;
+  width: 155px;
+  height: 45px;
+  left: 125px;
+  top: 582px;
+  width: 15.5rem;
+  height: 4.5rem;
+  left: 12.5rem;
+  top: 58.2rem;
+  background: #90ADFF;
+  border-radius: 30px;
+  border-radius: 3rem;
+  border:none;
+  font-size:2rem;
+  font-size:20px;
+  text-decoration: none;
+  color:black;
+  padding:8px;
+  padding:0.8rem;
+}
+
